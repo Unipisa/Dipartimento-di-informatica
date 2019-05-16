@@ -1,4 +1,4 @@
-## Univeristà di Pisa
+## Università di Pisa
 # Dipartimento di Informatica
 
 Official [GitHub.com](https://github.com) Team of [Dipartimento di Informatica](http://di.unipi.it)
